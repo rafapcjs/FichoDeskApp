@@ -49,8 +49,8 @@ Para una breve explicación de los patrones de diseño, interacción del softwar
 
 👥 Contribuyentes
 Rafael Alfonso Corredor Gambín (@rafapcjs)
-📜 Licencia
-Este proyecto está bajo la licencia [especificar la licencia, si se ha decidido una].
+Enlace del la explicacion de la arquitecura mvc y patrones de diseño , interaccion del funcionamiento del software de escritorio en Youtube
+https://www.youtube.com/watch?v=v08qOdJ_ACk
 
 🙏 Agradecimientos
 Universidad de Córdoba
