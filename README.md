@@ -55,7 +55,4 @@ https://www.youtube.com/watch?v=v08qOdJ_ACk
 🙏 Agradecimientos
 Universidad de Córdoba
 Profesor Wilmer Emilio Vergara
-perl
-Copiar código
 
-¡Espero que te sea útil! Si necesitas algún cambio adicional, no dudes en decírmelo.
