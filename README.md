@@ -1,58 +1,57 @@
- # 🎓 Sistema de Venta de Fichos UNICORDOBA
+ # 🎓 UNICORDOBA Token Sales System (FichoDeskApp)
 
-## 📄 Descripción del Proyecto
+## 📄 Project Description
 
-Este proyecto es un sistema de gestión de venta de fichos para la Universidad de Córdoba (UNICORDOBA). Fue desarrollado como proyecto final para el curso de Programación 3 por Rafael Alfonso Corredor Gambín de la Universidad de Córdoba, Ingeniería de Sistemas. El sistema gestiona la venta de fichos diarios a estudiantes activos, con roles específicos para administradores, vendedores y personal de bienestar universitario.
+This project is a token sales management system for the University of Córdoba (UNICORDOBA). It was developed as a final project for the Programming 3 course by Rafael Alfonso Corredor Gambín of the University of Córdoba, Systems Engineering. The system manages the sale of daily tokens to active students, with specific roles for administrators, vendors, and university welfare staff.
 
-## 🌟 Características
+## 🌟 Features
 
-- 🔐 Autenticación de usuarios (inicio y cierre de sesión)
-- 🛠️ Gestión de roles de usuario (Administrador, Vendedor, Bienestar Universitario)
-- 📋 Gestión de estudiantes (registro, actualización, eliminación)
-- 🎟️ Gestión de fichos (creación, actualización, eliminación)
-- 🛒 Venta de fichos con límite de compra diaria por estudiante
-- 📊 Informes de ventas y análisis gráfico
+- 🔐 User authentication (login and logout)
+- 🛠️ User role management (Administrator, Vendor, University Welfare)
+- 📋 Student management (registration, update, deletion)
+- 🎟️ Token management (creation, update, deletion)
+- 🛒 Token sales with daily purchase limit per student
+- 📊 Sales reports and graphical analysis
 
-## 💻 Tecnologías Utilizadas
+## 💻 Technologies Used
 
 - ☕ Java
 - 🔌 JDBC (Java Database Connectivity)
 - 🗄️ MySQL
-- 📐 StarUML (para el diseño y modelado)
-- 🖥️ Java Swing (para la interfaz gráfica de usuario)
+- 📐 StarUML (for design and modeling)
+- 🖥️ Java Swing (for the graphical user interface)
 
-## 🔧 Instalación
+## 🔧 Installation
 
-1. Clonar el repositorio:
-   ```sh
-   git clone https://github.com/rafapcjs/Sistema-de-venta-de-fichos-unicordoba.git
-Asegúrate de tener instalado Java JDK y MySQL en tu sistema.
+1. Clone the repository:
+```sh
+git clone https://github.com/rafapcjs/Sistema-de-venta-de-fichos-unicordoba.git
+Make sure you have Java JDK and MySQL installed on your system.
 
-Configura la base de datos MySQL según el esquema proporcionado en el archivo de diseño.
+Configure the MySQL database according to the schema provided in the design file.
 
-Actualiza la configuración de conexión a la base de datos en el archivo de configuración del proyecto.
+Update the database connection settings in the project configuration file.
 
-🚀 Uso
-Compila el proyecto usando tu IDE preferido o desde la línea de comandos.
+🚀 Usage
+Build the project using your preferred IDE or from the command line.
 
-Ejecuta la aplicación principal.
+Run the main application.
 
-Inicia sesión con las credenciales proporcionadas según tu rol (Administrador, Vendedor o Bienestar Universitario).
+Log in with the credentials provided based on your role (Administrator, Vendor, or University Welfare).
 
-📁 Estructura del Proyecto
-src/: Contiene el código fuente Java
-lib/: Bibliotecas y dependencias (incluyendo el conector JDBC para MySQL)
-docs/: Documentación del proyecto, incluyendo diagramas UML generados con StarUML
-sql/: Scripts SQL para la configuración de la base de datos
-📹 Documentación Adicional
-Para una breve explicación de los patrones de diseño, interacción del software de escritorio y prueba, puedes ver el siguiente enlace: YouTube - Explicación del Proyecto
+📁 Project Structure
+src/: Contains the Java source code
+lib/: Libraries and dependencies (including the JDBC connector for MySQL)
+docs/: Project documentation, including UML diagrams generated with StarUML
+sql/: SQL scripts for database configuration
+📹 Additional Documentation
+For a brief explanation of design patterns, desktop software interaction, and testing, see the following link: YouTube - Project Explanation
 
-👥 Contribuyentes
+👥 Contributors
 Rafael Alfonso Corredor Gambín (@rafapcjs)
-Enlace del la explicacion de la arquitecura mvc y patrones de diseño , interaccion del funcionamiento del software de escritorio en Youtube
+Link to the explanation of MVC architecture and design patterns, desktop software interaction, and functionality on YouTube
 https://www.youtube.com/watch?v=v08qOdJ_ACk
 
-🙏 Agradecimientos
-Universidad de Córdoba
-Profesor Wilmer Emilio Vergara
-
+🙏 Acknowledgments
+University of Córdoba
+Professor Wilmer Emilio Vergara
